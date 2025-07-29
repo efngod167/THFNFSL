@@ -47,12 +47,16 @@ export default {
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <div class="type-title-sm">Misses</div>
+                            <p>{{ level.misses || '0' }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Mod</div>
+                            <p>{{ level.mod || 'Not Stated' }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">Spam</div>
+                            <p>{{ level.spam || 'No; }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -70,8 +74,8 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
+                            <td class="misses">
+                                <p>{{ record.misses }}</p>
                             </td>
                         </tr>
                     </table>
@@ -98,30 +102,30 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>List Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The song must be possible in some sort of way, unless if the song is impossible and must be done with bots (for ex. Scopoliosis from Manny Edition V3) it cannot be added nor allowed.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Your completion/verification video must have audible key presses (this does not mean you can use botplay, that is not allowed). However, you can include handcam if the video doesn't contain audio.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        You're not allowed to secretly nerf charts of specific songs nor buff them, as it is cheating. This goes to recharts, unless it's either official or the song is changed in any way.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Spamming in non spam songs is absolutely prohibited, as it is an effortless way of beating songs and requires no skill. You can spam on songs if the spam label says "Yes".
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        You are allowed to submit mobile records, however you cannot use tile dragging as it is considered cheating.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        As of right now, you cannot submit records of songs that are in RoFNF games (Monday Morning Misery, Funky Friday etc.) as the health bar mechanic doesn't work as it does in the game.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Songs that are above 10K are not allowed. This goes to Talladega B-Side, Athanatos, Space breaker and many more.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a song falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said song.
                     </p>
                 </div>
             </div>
