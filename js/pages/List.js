@@ -56,7 +56,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Spam</div>
-                            <p>{{ level.spam || 'No; }}</p>
+                            <p>{{ level.spam || 'No' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
