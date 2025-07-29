@@ -1,6 +1,6 @@
 export default {
     props: {
-        author: {
+        charter: {
             type: String,
             required: true,
         },
@@ -18,7 +18,7 @@ export default {
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
-                    <span>{{ author }}</span>
+                    <span>{{ charter }}</span>
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
@@ -44,9 +44,9 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Publisher</div>
+            <div class="type-title-sm">Charter</div>
             <p class="type-body">
-                <span>{{ author }}</span>
+                <span>{{ charter }}</span>
             </p>
         </div>
     `,
