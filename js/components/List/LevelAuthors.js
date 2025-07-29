@@ -46,7 +46,7 @@ export default {
             </template>
             <div class="type-title-sm">Charter</div>
             <p class="type-body">
-                <span>{{ charter }}</span>
+                <span>{{ publisher }}</span>
             </p>
         </div>
     `,
