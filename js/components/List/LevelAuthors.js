@@ -1,6 +1,6 @@
 export default {
     props: {
-        publisher: {
+        charter: {
             type: String,
             required: true,
         },
@@ -46,7 +46,7 @@ export default {
             </template>
             <div class="type-title-sm">Charter</div>
             <p class="type-body">
-                <span>{{ publisher }}</span>
+                <span>{{ charter }}</span>
             </p>
         </div>
     `,
