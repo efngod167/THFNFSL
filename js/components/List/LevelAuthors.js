@@ -18,7 +18,7 @@ export default {
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
-                    <span>{{ author }}</span>
+                    <span>{{ creatorandverifier }}</span>
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
@@ -53,7 +53,7 @@ export default {
 
     computed: {
         selfVerified() {
-            return this.author === this.verifier && this.creators.length === 0;
+            return this.creatorandverifier === this.verifier && this.creators.length === 0;
         },
     },
 };
