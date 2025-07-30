@@ -8,5 +8,11 @@
 	"mod": "Tux Trouble (VS. Beastie)",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=u7y1DEkE56E",
+            "misses": "24",
+            "percent": 100
+        }
     ]
 }
