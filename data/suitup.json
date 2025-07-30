@@ -8,5 +8,11 @@
 	"mod": "VS. Steve 2.0",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=rlakL9Ozziw",
+            "misses": "1",
+            "percent": 100
+        }
     ]
 }
