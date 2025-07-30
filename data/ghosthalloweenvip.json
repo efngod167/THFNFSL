@@ -8,5 +8,11 @@
 	"mod": "VS. Camellia 2.0",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=lXcLi5anD8g",
+            "misses": "103",
+            "percent": 100
+        }
     ]
 }
