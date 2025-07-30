@@ -8,5 +8,11 @@
 	"mod": "VS. Umbal 2.0",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=hfSaAeNZ1XM",
+            "misses": "77",
+            "percent": 100
+        }
     ]
 }
