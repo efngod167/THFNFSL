@@ -119,6 +119,9 @@ export default {
                         Spamming in non spam songs is absolutely prohibited, as it is an effortless way of beating songs and requires no skill. You can spam on songs if the spam label says "Yes".
                     </p>
                     <p>
+                        You can only play on the hardest difficulty that exists. This rule doesn't apply to Spyware from Friday Night Sandboxin'.
+                    </p>
+                    <p>
                         You are allowed to submit mobile records, however you cannot use tile dragging as it is considered cheating.
                     </p>
                     <p>
