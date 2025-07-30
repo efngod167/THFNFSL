@@ -8,5 +8,11 @@
 	"mod": "Shaggy X Velma",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=f8vRtJbQa6w",
+            "misses": "210",
+            "percent": 100
+        }
     ]
 }
