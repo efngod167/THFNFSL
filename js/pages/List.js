@@ -107,6 +107,9 @@ export default {
                         The song must be possible in some sort of way, unless if the song is impossible and must be done with bots (for ex. Scopoliosis from Manny Edition V3) it cannot be added nor allowed.
                     </p>
                     <p>
+                        If the mod from a song isn't publicly available to download, contact list mods or the owner for a backup of the mod. However, if it's not archived, the song from the specific mod will be removed from the list.
+                    </p>
+                    <p>
                         Your completion/verification video must have audible key presses (this does not mean you can use botplay, that is not allowed). However, you can include handcam if the video doesn't contain audio.
                     </p>
                     <p>
