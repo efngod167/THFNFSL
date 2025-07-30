@@ -8,5 +8,11 @@
 	"mod": "V.S. Velma Dinkey",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=3lKbez3vv8g",
+            "misses": "715",
+            "percent": 100
+        }
     ]
 }
