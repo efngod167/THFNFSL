@@ -1,7 +1,7 @@
 {
     "name": "Unfairness (Filterless)",
     "charter": "MoldyGH",
-    "creators": ["MoldyGH"],
+    "composer": ["MoldyGH"],
     "verification": "https://www.youtube.com/watch?v=JcPR-AOGkOE",
     "percentToQualify": "100",
     "misses": "<90",
