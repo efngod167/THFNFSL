@@ -1,7 +1,7 @@
 {
     "name": "GHOUL",
-    "charter": "Lott",
-    "creators": ["Camellia, LiterallyNoOne"],
+    "charters": "Lott",
+    "composers": ["Camellia, LiterallyNoOne"],
     "verification": "https://youtube.com/watch?v=dneuBIA7kb8",
     "percentToQualify": "100",
     "misses": "<250",
