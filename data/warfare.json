@@ -1,7 +1,7 @@
 {
     "name": "Warfare",
-    "charter": "Maevings",
-    "composer": ["Maevings"],
+    "charters": "Maevings",
+    "composers": ["Maevings"],
     "verification": "https://www.youtube.com/watch?v=4na3Zop1ybc",
     "percentToQualify": "100",
     "misses": "<480",
