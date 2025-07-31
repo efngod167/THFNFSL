@@ -1,7 +1,7 @@
 {
     "name": "Target Practice (Old)",
-    "charter": "WhippyorcYT",
-    "composer": ["TheOnlyVolume"],
+    "charters": "WhippyorcYT",
+    "composers": ["TheOnlyVolume"],
     "verification": "https://www.youtube.com/watch?v=2iQMRO4HQoU",
     "percentToQualify": "100",
     "misses": "<251",
