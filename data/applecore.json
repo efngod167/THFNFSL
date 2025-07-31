@@ -1,7 +1,7 @@
 {
     "name": "Applecore",
-    "charter": "Bezie",
-    "composer": ["Sky!"],
+    "charters": "Bezie",
+    "composers": ["Sky!"],
     "verification": "https://www.youtube.com/watch?v=A8PeoidIyuQ",
     "percentToQualify": "100",
     "misses": "<247",
