@@ -1,7 +1,7 @@
 {
     "name": "Dissasembler",
     "charters": "srPerez, Pointy",
-    "composer": ["Joan Atlas"],
+    "composers": ["Joan Atlas"],
     "verification": "https://www.youtube.com/watch?v=g5ZRtCyov8s",
     "percentToQualify": "100",
     "misses": "<88",
