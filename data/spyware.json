@@ -1,0 +1,18 @@
+{
+    "name": "Spyware",
+    "charter": "sirj455",
+    "creators": ["Naireshi"],
+    "verification": "https://www.youtube.com/watch?v=KBrmY_CSAKQ",
+    "percentToQualify": "100",
+    "misses": "<229",
+	"mod": "Friday Night Sandboxin'",
+	"spam": "No",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=llSIFRCP20Y",
+		"misses": "18",
+		"percent": 100
+	}
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Tick Tock (Hardcore)",
+    "charter": "Duftea/Somf",
+    "creators": ["TheGaboDiaz/TracedInPurple"],
+    "verification": "https://www.youtube.com/watch?v=V5ZdHuqdeCE",
+    "percentToQualify": "100",
+    "misses": "FC",
+	"mod": "VS. Steve 2.0",
+	"spam": "No",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=XfitbvJpN74",
+		"misses": "FC",
+		"percent": 100
+	}
+    ]
+}
