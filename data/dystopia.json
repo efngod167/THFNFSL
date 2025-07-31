@@ -1,7 +1,7 @@
 {
     "name": "Dystopia",
-    "charter": "Maevings",
-    "composer": ["Maevings"],
+    "charters": "Maevings",
+    "composers": ["Maevings"],
     "verification": "https://www.youtube.com/watch?v=XaO9ycR4_6k",
     "percentToQualify": "100",
     "misses": "<279",
