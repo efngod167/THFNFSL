@@ -1,6 +1,6 @@
 export default {
     props: {
-        charter: {
+        charters: {
             type: String,
             required: true,
         },
@@ -37,6 +37,12 @@ export default {
                 <span>{{ charter }}</span>
             </p>
         </div>
+        <div class="type-title-sm">Charters</div>
+                <p class="type-body">
+                    <template v-for="(charter, index) in charters" :key="\`charter-\$\{charter\}\`">
+                        <span >{{ charter }}</span
+                        ><span v-if="index < charters.length - 1">, </span>
+                    </template>
     `,
 
     computed: {
