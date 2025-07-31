@@ -23,6 +23,14 @@ export default {
                     <span>{{ author }}</span>
                 </p>
             </template>
+            <template v-else>
+                <div class="type-title-sm">Composers</div>
+                <p class="type-body">
+                    <template v-for="(creator, index) in creators" :key="\`creator-\$\{creator\}\`">
+                        <span >{{ creator }}</span
+                        ><span v-if="index < creators.length - 1">, </span>
+                    </template>
+                </p>
             <div class="type-title-sm">Charters</div>
             <p class="type-body">
                 <span>{{ charter }}</span>
