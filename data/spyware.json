@@ -1,7 +1,7 @@
 {
     "name": "Spyware",
-    "charter": "sirj455",
-    "composer": ["Naireshi"],
+    "charters": "sirj455",
+    "composers": ["Naireshi"],
     "verification": "https://www.youtube.com/watch?v=KBrmY_CSAKQ",
     "percentToQualify": "100",
     "misses": "<229",
