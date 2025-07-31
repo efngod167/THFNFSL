@@ -1,7 +1,7 @@
 {
     "name": "Tick Tock (Hardcore)",
-    "charter": "Duftea/Somf",
-    "creators": ["TheGaboDiaz/TracedInPurple"],
+    "charters": "Duftea/Somf",
+    "composers": ["TheGaboDiaz/TracedInPurple"],
     "verification": "https://www.youtube.com/watch?v=V5ZdHuqdeCE",
     "percentToQualify": "100",
     "misses": "FC",
