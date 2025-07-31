@@ -1,7 +1,7 @@
 {
     "name": "Pain",
     "charter": "ZackBanana",
-    "creators": ["ZackBanana"],
+    "composer": ["ZackBanana"],
     "verification": "https://www.youtube.com/watch?v=hfSaAeNZ1XM",
     "percentToQualify": "100",
     "misses": "<142",
