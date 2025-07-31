@@ -8,5 +8,11 @@
 	"mod": "Shaggy X Matt",
 	"spam": "No",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=YfDhQrLDQbg",
+            "misses": "65",
+            "percent": 100
+        }
     ]
 }
