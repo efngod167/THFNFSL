@@ -1,7 +1,7 @@
 {
     "name": "Velma's Spam Challenge",
     "charters": "Moca Loca/Punnie",
-    "composer": ["ramadoor"],
+    "composers": ["ramadoor"],
     "verification": "https://www.youtube.com/watch?v=3lKbez3vv8g",
     "percentToQualify": "100",
     "misses": "<720",
