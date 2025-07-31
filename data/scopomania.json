@@ -8,5 +8,11 @@
 	"mod": "Manny Edition V3",
 	"spam": "Yes",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=jqonTyMhVP0",
+            "misses": "1361",
+            "percent": 100
+        }
     ]
 }
