@@ -43,4 +43,4 @@ export default {
             return this.author === this.verifier && this.creators.length === 0;
         },
     },
-};
+}
