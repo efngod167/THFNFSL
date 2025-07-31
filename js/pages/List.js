@@ -110,6 +110,9 @@ export default {
                         If the mod from a song isn't publicly available to download, contact list mods or the owner for a backup of the mod. However, if it's not archived, the song from the specific mod will be removed from the list.
                     </p>
                     <p>
+                        Please DO NOT spam submit only spam songs that are not only VDAB slop, but lazy songs overall. This will ruin the list and the playability of it.
+                    </p>
+                    <p>
                         Your completion/verification video must have audible key presses (this does not mean you can use botplay, that is not allowed). However, you can include handcam if the video doesn't contain audio.
                     </p>
                     <p>
