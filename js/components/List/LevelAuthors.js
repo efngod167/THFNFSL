@@ -38,10 +38,9 @@ export default {
             </p>
         </div>
     `,
-
     computed: {
         selfVerified() {
-            return this.author === this.verifier && this.creators.length === 0;
+            return this.author === this.verifier && this.composers.length === 0;
         },
     },
 };
