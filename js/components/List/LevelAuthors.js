@@ -18,7 +18,7 @@ export default {
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
-                <div class="type-title-sm">Composer</div>
+                <div class="type-title-sm">Composers</div>
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>
