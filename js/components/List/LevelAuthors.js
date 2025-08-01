@@ -1,10 +1,10 @@
 export default {
     props: {
-        author: {
+        charters: {
             type: String,
             required: true,
         },
-        creators: {
+        composers: {
             type: Array,
             required: true,
         },
