@@ -5,7 +5,7 @@ export default {
             required: true,
         },
         composers: {
-            type: Array,
+            type: String,
             required: true,
         },
     },
