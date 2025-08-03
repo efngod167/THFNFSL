@@ -1,0 +1,18 @@
+{
+    "name": "Target Practice (Old)",
+    "author": "WhippyorcYT",
+    "creators": ["TheOnlyVolume"],
+    "verification": "https://www.youtube.com/watch?v=2iQMRO4HQoU",
+    "percentToQualify": "100",
+    "misses": "<251",
+	"mod": "VS. Matt",
+	"spam": "No",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=YfDhQrLDQbg",
+		"misses": "45",
+		"percent": 100
+	}
+    ]
+}

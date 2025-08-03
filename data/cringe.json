@@ -1,0 +1,18 @@
+{
+    "name": "Cringe",
+    "author": "ChezzarCat",
+    "creators": ["Unknown"],
+    "verification": "https://www.youtube.com/watch?v=QvsdHmlaBLM",
+    "percentToQualify": "100",
+    "misses": "<124",
+	"mod": "FNF: DUSTTALE 2.0",
+	"spam": "Yes",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=A-GoR5eCpfI",
+            "misses": "58",
+            "percent": 100
+        }
+    ]
+}

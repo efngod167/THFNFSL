@@ -1,0 +1,18 @@
+{
+    "name": "Warfare",
+    "author": "Maevings",
+    "creators": ["Maevings"],
+    "verification": "https://www.youtube.com/watch?v=4na3Zop1ybc",
+    "percentToQualify": "100",
+    "misses": "<480",
+	"mod": "VS. Maevings Alpha 1",
+	"spam": "Yes",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=u7y1DEkE56E",
+            "misses": "369",
+            "percent": 100
+        }
+    ]
+}

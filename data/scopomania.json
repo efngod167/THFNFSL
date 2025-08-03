@@ -1,0 +1,18 @@
+{
+    "name": "Scopomania",
+    "author": "manny",
+    "creators": ["ThatPizzaTowerFan"],
+    "verification": "https://www.youtube.com/watch?v=jqonTyMhVP0",
+    "percentToQualify": "100",
+    "misses": "<1362",
+	"mod": "Manny Edition V3",
+	"spam": "Yes",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=jqonTyMhVP0",
+            "misses": "1361",
+            "percent": 100
+        }
+    ]
+}

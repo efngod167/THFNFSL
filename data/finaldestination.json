@@ -1,0 +1,18 @@
+{
+    "name": "Final Destination",
+    "author": "srPerez",
+    "creators": ["srPerez"],
+    "verification": "https://www.youtube.com/watch?v=H1g0gZu2Y78",
+    "percentToQualify": "100",
+    "misses": "<247",
+	"mod": "Shaggy X Matt",
+	"spam": "No",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=Nu5CoL5urQg",
+            "misses": "245",
+            "percent": 100
+        }
+    ]
+}

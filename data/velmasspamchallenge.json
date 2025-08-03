@@ -1,0 +1,18 @@
+{
+    "name": "Velma's Spam Challenge",
+    "author": "Moca Loca/Punnie",
+    "creators": ["ramadoor"],
+    "verification": "https://www.youtube.com/watch?v=3lKbez3vv8g",
+    "percentToQualify": "100",
+    "misses": "<720",
+	"mod": "V.S. Velma Dinkey",
+	"spam": "No",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=3lKbez3vv8g",
+            "misses": "715",
+            "percent": 100
+        }
+    ]
+}

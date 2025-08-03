@@ -1,0 +1,18 @@
+{
+    "name": "GHOST Halloween VIP",
+    "author": "Brownie, Ragi",
+    "creators": ["Camellia, LiterallyNoOne"],
+    "verification": "https://www.youtube.com/watch?v=P6tZv1e_EGo",
+    "percentToQualify": "100",
+    "misses": "<250",
+	"mod": "VS. Camellia 2.0",
+	"spam": "No",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=lXcLi5anD8g",
+            "misses": "103",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Talladega",
+    "author": "srPerez, Pointy",
+    "creators": ["srPerez"],
+    "verification": "https://www.youtube.com/watch?v=79YO6i3JuS8",
+    "percentToQualify": "100",
+    "misses": "<229",
+	"mod": "VS Shaggy",
+	"spam": "No",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=u7y1DEkE56E",
+            "misses": "30",
+            "percent": 100
+        }
+    ]
+}

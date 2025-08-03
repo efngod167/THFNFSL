@@ -1,0 +1,18 @@
+{
+    "name": "Slasher (Harder)",
+    "author": "emersynthe",
+    "creators": ["Dee_Dae"],
+    "verification": "https://www.youtube.com/watch?v=4-MDz-fO8QM",
+    "percentToQualify": "100",
+    "misses": "<50",
+	"mod": "VS. Tinky Winky",
+	"spam": "No",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=YfDhQrLDQbg",
+		"misses": "33",
+		"percent": 100
+	}
+    ]
+}

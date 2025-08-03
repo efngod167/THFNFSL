@@ -1,0 +1,18 @@
+{
+    "name": "Wreath",
+    "author": "asliced lemon",
+    "creators": ["asliced lemon"],
+    "verification": "https://www.youtube.com/watch?v=oUXpenDOsts",
+    "percentToQualify": "100",
+    "misses": "<412",
+	"mod": "VS Jeb",
+	"spam": "Yes",
+    "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=Tb-qoFfl2l8",
+            "misses": "412",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Bloodshed (Unnerfed)",
+    "author": "kurtfan5468",
+    "creators": ["TailsFan01"],
+    "verification": "https://www.youtube.com/watch?v=NXOE4R7LMQo",
+    "percentToQualify": "100",
+    "misses": "<90",
+	"mod": "VS. Ron 1.0",
+	"spam": "Yes",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=A-GoR5eCpfI",
+		"misses": "69",
+		"percent": 100
+	}
+    ]
+}

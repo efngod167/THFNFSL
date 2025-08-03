@@ -1,0 +1,18 @@
+{
+    "name": "Absorb",
+    "author": "BMV227",
+    "creators": ["BMV227"],
+    "verification": "https://www.youtube.com/watch?v=QexN--xmLXI",
+    "percentToQualify": "100",
+    "misses": "<200",
+	"mod": "VS. Spong",
+	"spam": "Yes",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=nwp4EkAtmIg",
+		"misses": "155",
+		"percent": 100
+	}
+    ]
+}

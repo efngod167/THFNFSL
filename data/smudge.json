@@ -1,0 +1,18 @@
+{
+    "name": "Smudge (Etterna)",
+    "author": "Ghost1825530",
+    "creators": ["VS. Suction Cup Man Composer Team"],
+    "verification": "https://www.youtube.com/watch?v=xF_sm7w_zAk",
+    "percentToQualify": "100",
+    "misses": "<90",
+	"mod": "VS. Suction Cup Man",
+	"spam": "No",
+    "records": [
+	{
+		"user": "pixel",
+		"link": "https://www.youtube.com/watch?v=u7y1DEkE56E",
+		"misses": "7",
+		"percent": 100
+	}
+    ]
+}
