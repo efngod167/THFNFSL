@@ -1,11 +1,11 @@
 export default {
     props: {
-        charters: {
+        author: {
             type: String,
             required: true,
         },
-        composers: {
-            type: String,
+        creators: {
+            type: Array,
             required: true,
         },
     },
@@ -18,9 +18,13 @@ export default {
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
-                <div class="type-title-sm">Composers</div>
+                <div class="type-title-sm">Creator</div>
                 <p class="type-body">
-                    <span>{{ composers }}</span>
+                    <span>{{ author }}</span>
+                </p>
+                <div class="type-title-sm">Verifier</div>
+                <p class="type-body">
+                    <span>{{ verifier }}</span>
                 </p>
             </template>
             <template v-else>
@@ -31,10 +35,14 @@ export default {
                         ><span v-if="index < creators.length - 1">, </span>
                     </template>
                 </p>
+                <div class="type-title-sm">Verifier</div>
+                <p class="type-body">
+                    <span>{{ verifier }}</span>
+                </p>
             </template>
-            <div class="type-title-sm">Charters</div>
+            <div class="type-title-sm">Publisher</div>
             <p class="type-body">
-                <span>{{ charters }}</span>
+                <span>{{ author }}</span>
             </p>
         </div>
     `,
