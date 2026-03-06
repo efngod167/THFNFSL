@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Mod</div>
-                            <p>{{ level.mod || 'Not Stated' }}</p>
+                            <p>{{ level.mod || 'N/A' }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">Spam</div>
