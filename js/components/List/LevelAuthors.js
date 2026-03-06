@@ -8,10 +8,6 @@ export default {
             type: Array,
             required: true,
         },
-        verifier: {
-            type: String,
-            required: false,
-        },
     },
     template: `
         <div class="level-authors">
@@ -30,8 +26,8 @@ export default {
             <template v-else>
                 <div class="type-title-sm">Composers</div>
                 <p class="type-body">
-                    <template v-for="(creator, index) in creators" :key="\`creator-\$\{creator\}\`">
-                        <span >{{ creator }}</span
+                    <template v-for="(creators, index) in creators" :key="\`creators-\$\{creators\}\`">
+                        <span >{{ creators }}</span
                         ><span v-if="index < creators.length - 1">, </span>
                     </template>
                 </p>
