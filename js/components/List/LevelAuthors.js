@@ -2,11 +2,11 @@ export default {
     props: {
         author: {
             type: String,
-            required: false,
+            required: true,
         },
         creators: {
             type: Array,
-            required: false,
+            required: true,
         },
     },
     template: `
