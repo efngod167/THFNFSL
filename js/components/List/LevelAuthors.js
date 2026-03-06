@@ -12,20 +12,20 @@ export default {
     template: `
         <div class="level-authors">
             <template v-if="selfVerified">
-                <div class="type-title-sm">Creator & Verifier</div>
+                <div class="type-title-sm">Charter & Composer</div>
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
-                <div class="type-title-sm">Creator</div>
+                <div class="type-title-sm">Composer</div>
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>
             </template>
                 </p>
             </template>
-            <div class="type-title-sm">Publisher</div>
+            <div class="type-title-sm">Charter</div>
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
